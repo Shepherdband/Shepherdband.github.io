@@ -35,7 +35,7 @@ function fadedEls(el, shift) {
             "path" : "video/",
             "width": 1280,
             "height": 720,
-            "filename" : "ShepherdBandAnimation",
+            "filename" : "Sequence",
             "types" : ["mp4", "ogg", "webm"]
         });
         // Sections height & scrolling
